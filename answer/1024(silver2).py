@@ -8,6 +8,7 @@ numbers = []
 #             numbers[i] = int((sum/len) - (len/2) + i + 0.5)
 
 
+
 if(sum % 2 == 0): #짝수
     for i in range(len, 101):
         if(i % 2 == 0):
